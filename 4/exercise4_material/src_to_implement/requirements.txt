@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+pytorch
+torchvision
+cuda100
+pip
+scikit-image
+scikit-learn
+jupyterlab
+tqdm
